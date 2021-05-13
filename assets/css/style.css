@@ -1,0 +1,159 @@
+div.enc {
+  background: black;
+  width: 1917px;
+  height: 99px;
+}
+ol li {
+  display: inline-block;
+  margin-left: 30px;
+  list-style-type: none;
+  padding: 2rem 1rem;
+  color: white;
+}
+a {
+  color: white;
+}
+div.imgfondo {
+  position: relative;
+  color: white;
+  height: 422px;
+  width: 1917px;
+  background-image: url(/assets/img/bg-hero.png);
+  display: inline-block;
+}
+div.textimgfondo {
+  text-align: right;
+  position: relative;
+  right: 200px;
+  top: 100px;
+}
+
+div.a {
+  text-align: center;
+  height: 600px;
+  width: 1917px;
+  margin-top: 200px;
+  display: block;
+}
+div.b {
+  background-color: #a4452c;
+  text-align: center;
+  color: white;
+  height: 501px;
+  width: 1917px;
+}
+div.b1 {
+  vertical-align: 40px;
+  text-align: left;
+  margin: 80px;
+  display: inline-block;
+}
+div.cmayor {
+  position: relative;
+  left: 100px;
+  top: 200px;
+  height: 770px;
+  width: 1917px;
+}
+div.c {
+  text-align: center;
+}
+div.c2 {
+  position: relative;
+  left: 200px;
+  text-align: center;
+}
+div.c3 {
+  position: relative;
+  left: 200px;
+  text-align: center;
+}
+div.c4 {
+  position: relative;
+  left: 200px;
+  text-align: center;
+}
+div.c1 {
+  column-width: 400px;
+}
+div.final1 {
+  width: 1917px;
+  height: 284px;
+  color: white;
+  background: black;
+  text-align: center;
+}
+div.final1 i{
+  margin: 1%;
+  margin-top: 1em;
+}
+div.enc1 {
+  background: black;
+  width: 1919px;
+  height: 99px;
+}
+div.enc1 ol li {
+  display: inline-block;
+  margin-left: 30px;
+  list-style-type: none;
+  padding: 2rem 1rem;
+  color: white;
+}
+div.pie1 {
+  width: 1919px;
+  height: 284px;
+  color: white;
+  background: black;
+  text-align: center;
+}
+div.pie1 i {
+  margin: 1%;
+  margin-top: 1em;
+}
+
+div.pr1 {
+  width: 1085px;
+  height: 893px;
+  text-align: left;
+  margin-left: 400px;
+  display:inline-block ;
+}
+
+div.pr2 {
+  width: 1085px;
+  height: 440px;
+  text-align: left;
+  margin-left: 400px;
+  display:inline-block ;
+}
+div.pr3 {
+  width: 1085px;
+  height: 1013px;
+  text-align: left;
+  margin-left: 400px;
+  display:inline-block ;
+}
+#cuerpo p{
+  text-align: justify;
+  font-size: 32px;
+}
+#cuerpo h1{
+  font-size: 38px;
+}
+#pie22 h3{
+  font-size:36px ;
+}
+.bloque1{
+display:inline-block;
+text-align: center;
+position: static;
+padding-left: 100px;
+}
+.titevento{
+  text-align: center;
+  position: relative;
+  right: 450px;
+}
+  
+
+
